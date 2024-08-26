@@ -1,0 +1,46 @@
+{
+  "name": "morsel.db",
+  "version": "0.0.1",
+  "description": "Morsel.db is an advanced json database module.",
+  "main": "src/database.js",
+  "types": "src/database.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "echo 'morsel.db installed!'"
+  },
+  "keywords": [
+    "db",
+    "database",
+    "base",
+    "databs",
+    "dtbs",
+    "morsel",
+    "morsel-api",
+    "morselapi",
+    "npm",
+    "i",
+    "mrsel.js",
+    "js",
+    "morsel-sql.db",
+    "mrsel",
+    "JAVASCRIPT"
+  ],
+  "dependencies": {
+    "path": "^0.12.7",
+    "fs": "^0.0.1-security",
+    "chalk": "^4.1.2"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "author": "Mrsel <morselprojeler@gmail.com>",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/your-username/morsel.db.git"
+  },
+  "bugs": {
+    "url": "https://github.com/your-username/morsel.db/issues"
+  },
+  "homepage": "https://github.com/your-username/morsel.db#readme"
+}
